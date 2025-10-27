@@ -79,13 +79,14 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
   * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
     Youtube Ders Linki:  https://www.youtube.com/watch?v=L82cOS2Ur9k  
 
-  * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
+  * Oturum 3 : flask_sqlalchemy ile Orm, api geliştirme, dosya işlemleri   
     Youtube Ders Linki:  
 
 
 - Hafta 7: Numpy ve Numpy Dosya İşlemleri
   
-  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,   
+  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,
+    Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
     Youtube Ders Linki:  
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
@@ -105,6 +106,8 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
     Youtube Ders Linki:  
+
+    
   → Proje sunumu, geri bildirim, GitHub’a yükleme   
 
 
