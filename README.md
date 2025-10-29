@@ -9,7 +9,11 @@ Bu proje sıfırdan ileri seviyeye Python ile programlama pratikleri edinmek ist
 
 ## 🛠️ Kullanılan Teknolojiler
 
-Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir.
+Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir. Konular işlenirken ihtiyaç duyulan programlar ve kütüphaneler ders sırasına eklenecektir. Ayrıntılar için ders video linklerini inceleyebilir veya haftalık ders dizinlerini kontrol edebilirsiniz. Ayrıca gerekli kurulumlar için requirements.txt kullanarak bootcamp boyu kullanılanıılan kütüphaneleri kullanacak olduğunuz sisteme yükleyebilirsiniz.   
+Başarılar Dilerim   
+Sinan ÜRÜN   
+Bilgisayar Öğretmeni ve Mühendisi   
+
 
 - Hafta 1: Python’a Giriş ve Temel Programlama
   
@@ -80,14 +84,14 @@ Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara h
     Youtube Ders Linki:  https://www.youtube.com/watch?v=L82cOS2Ur9k  
 
   * Oturum 3 : flask_sqlalchemy ile Orm, api geliştirme, dosya işlemleri   
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=wZ2gCQkQAzs  
 
 
 - Hafta 7: Numpy ve Numpy Dosya İşlemleri
   
-  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,
-    Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
-    Youtube Ders Linki:  
+  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,  
+      Drive Ders Linki : https://colab.research.google.com/drive/1sz9ieAMzfv4YEjYCkuGvX1Gn2F58NwTg?usp=sharing       
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=HomrmQuPZG0  
 
   * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
     Youtube Ders Linki:  
