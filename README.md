@@ -99,15 +99,15 @@ Bilgisayar Öğretmeni ve Mühendisi
 
   * Oturum 3 : numpy istatistiksel işlemler, mean, std, sum, np.where, np.nan, np.loadtxt,
     Drive Dersi Linki:  https://colab.research.google.com/drive/1G1FWlCefPKSCH_vm-W2DGsvgl4NEgmUJ?usp=sharing    
-    Youtube Ders Linki:  
+    Youtube Ders Linki:  https://www.youtube.com/watch?v=EuMm7qZ7IDI  
 
 
 - Hafta 8: Pandas ve Veri Görselleştirme
   
-  * Oturum 1 : Pandas: Series, DataFrame, CSV/Excel yükleme, head(), info(), describe()  
+  * Oturum 1 : Pandas: Series, DataFrame,  head(), info(), describe()  
     Youtube Ders Linki:  
 
-  * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna), yeni sütun ekleme  
+  * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna),CSV/Excel yükleme, yeni sütun ekleme  
     Youtube Ders Linki:  
 
   * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
